@@ -1,2 +1,4 @@
-# DarkPlus-Discord-Theme
-Highly customized dark and blue theme for discord
+# DarkPlus
+Highly customized dark and purple theme for discord
+# Download 
+[Click Here](https://devevil.xyz/darkplus)
