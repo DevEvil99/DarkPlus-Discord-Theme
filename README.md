@@ -17,5 +17,7 @@
 **[Preview](https://devevil.com/theme-preview/dark+)** <br>
 **[Download From BetterDiscord](https://betterdiscord.app/theme/Dark%2B)** <br>
 **[Download Dark+ with Defualt Memberlist](https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases/download/Dark%2Bv2/Dark+-Default-Member-List.theme.css)** <br>
+**[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
+**[Contact](https://devevil.com/contact)** <br>
 **[Wiki](https://github.com/DevEvil99/DarkPlus-Discord-Theme/wiki)**
