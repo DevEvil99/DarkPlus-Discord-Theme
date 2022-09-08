@@ -22,4 +22,9 @@
 **[Contact](https://devevil.com/contact)** <br>
 **[Wiki](https://github.com/DevEvil99/DarkPlus-Discord-Theme/wiki)**
 
+# My Other Themes
+- **[Ocean](https://betterdiscord.app/theme/Ocean)**
+- **[Neptune](https://betterdiscord.app/theme/Neptune)**
+- **[Azurite](https://betterdiscord.app/theme/Azurite)**
+
 **Made with 💜 by [DevEvil#8745](https://devevil.com/)**
