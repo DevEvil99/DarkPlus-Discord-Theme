@@ -6,7 +6,7 @@
 </div>
 <br>
 
-![222727452-e177b845-f5c2-48da-b4f3-6a6c811fc3d8](https://user-images.githubusercontent.com/73029696/222909180-5f61af6f-43b7-44ee-84a7-54898f8d6fb1.png)
+![image](https://user-images.githubusercontent.com/73029696/222912829-0a0ca84f-5929-4085-91e9-b8af80149a1d.png)
 
 
 # User customization
