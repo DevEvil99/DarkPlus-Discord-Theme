@@ -20,7 +20,7 @@
 
 # Links
 **[Download From BetterDiscord](https://betterdiscord.app/theme/Dark++)** <br>
-**<a href="https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases">Download Dark+ with Defualt Memberlist</a>** <br>
+**<a href="https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases/download/Dark%2Bv2/Dark+-Default-Member-List.theme.css">Download Dark+ with Defualt Memberlist</a>** <br>
 **[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
 **[Contact](https://devevil.com/contact)** <br>
