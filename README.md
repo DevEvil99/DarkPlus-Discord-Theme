@@ -6,7 +6,7 @@
 </div>
 <br>
 
-![image](https://camo.githubusercontent.com/41919d1782fed1a735e94a80606b897de2371a5491035719f4b71fd8cee770d1/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3436383134313332343930363932313938342f313030373636303731393833373239303633372f756e6b6e6f776e2e706e673f73697a653d34303936)
+![image](https://user-images.githubusercontent.com/73029696/222727452-e177b845-f5c2-48da-b4f3-6a6c811fc3d8.png)
 
 
 
@@ -21,7 +21,7 @@
 
 # Links
 **[Download From BetterDiscord](https://betterdiscord.app/theme/Dark++)** <br>
-**<a href="https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases/download/Dark%2Bv2/Dark+-Default-Member-List.theme.css">Download Dark+ with Defualt Memberlist</a>** <br>
+**<a href="https://github.com/DevEvil99/DarkPlus-Defualt-Memberlist/releases">Download Dark+ with Defualt Memberlist</a>** <br>
 **[Website](https://devevil.com)** <br>
 **[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
 **[Contact](https://devevil.com/contact)** <br>
