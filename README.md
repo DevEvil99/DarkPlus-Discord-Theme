@@ -16,6 +16,7 @@
 - **[Ocean](https://betterdiscord.app/theme/Ocean)**
 - **[Neptune](https://betterdiscord.app/theme/Neptune)**
 - **[Azurite](https://betterdiscord.app/theme/Azurite)**
+- **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
 
 # Links
 **[Download From BetterDiscord](https://betterdiscord.app/theme/Dark+)** <br>
