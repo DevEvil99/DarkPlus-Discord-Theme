@@ -5,14 +5,16 @@
 </div>
 <br>
 
-![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3436383134313332343930363932313938342f313030373636303731393833373239303633372f756e6b6e6f776e2e706e673f73697a653d34303936](https://user-images.githubusercontent.com/73029696/222915013-e8a06979-1f4f-4a80-914c-8ed211b016d8.png)
+![dark+](https://github.com/user-attachments/assets/c5a975d0-566e-4bdb-9744-7c5580ba256d)
+
 
 
 # User customization
 - **Home icon**
 - **Colors**
 
-# My Other Themes
+# All of my themes
+- **[Dark+](https://betterdiscord.app/theme/Dark+)**
 - **[Ocean](https://betterdiscord.app/theme/Ocean)**
 - **[Neptune](https://betterdiscord.app/theme/Neptune)**
 - **[Azurite](https://betterdiscord.app/theme/Azurite)**
