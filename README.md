@@ -13,18 +13,12 @@
 - **Home icon**
 - **Colors**
 
-# All of my themes
-- **[Dark+](https://betterdiscord.app/theme/Dark+)**
-- **[Ocean](https://betterdiscord.app/theme/Ocean)**
-- **[Neptune](https://betterdiscord.app/theme/Neptune)**
-- **[Azurite](https://betterdiscord.app/theme/Azurite)**
-- **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
-
 # Links
-**[Download From BetterDiscord](https://betterdiscord.app/theme/Dark+)** <br>
-**[Download Dark+ with Default Memberlist](https://github.com/DevEvil99/DarkPlus-Default-Memberlist/releases)** <br>
-**[Website](https://devevil.com)** <br>
-**[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
-**[Contact](https://devevil.com/contact)** <br>
+- **[Download From BetterDiscord](https://betterdiscord.app/theme/Dark+)**
+- **[All of my addons](https://betterdiscord.app/developer/DevEvil)**
+- **[Download Dark+ with Default Memberlist](https://github.com/DevEvil99/DarkPlus-Default-Memberlist/releases)**
+- **[Website](https://devevil.com)** 
+- **[Support Server](https://discord.gg/jsQ9UP7kCA)** 
+- **[Contact](https://devevil.com/contact)**
 
 **Made with 💜 by [@devevil/DevEvil#8745](https://devevil.com/)**
