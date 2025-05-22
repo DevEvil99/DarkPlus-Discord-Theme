@@ -1,7 +1,7 @@
 /**
   * @name Dark+
   * @author DevEvil
-  * @version Dark+5.1
+  * @version Dark+6
   * @description Highly customized dark and purple theme for Discord
   * @authorId 468132563714703390
   * @authorLink https://devevil.com
@@ -11,7 +11,14 @@
   * @invite jsQ9UP7kCA
 */
 
+/* 
+  TO USE THE THEME WITH THE DEFAULT MEMBER LIST:
+  → Comment out the first @import line below.
+  → Then, uncomment the second @import line.
+*/
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+/*@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark%2B/Dark%2B-Default-Member-List.css');*/
+
 
 :root {
   --darkplus-bg: #212121;
@@ -19,7 +26,7 @@
   --darkplus-sec: #bb86fc;
   --darkplus-links: #cdaef3;
   --darkplus-home-icon: url(https://i.imgur.com/RvlNQ7k.png);
- --watermark-filter-invert: 0%;
+  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
   --watermark-filter-hue-rotate: 210deg;
